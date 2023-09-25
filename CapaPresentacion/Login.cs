@@ -31,7 +31,7 @@ namespace CapaPresentacion
 
             Usuario ousuario = new CN_Usuario().Listar().Where(u => u.Documento == txtdocumento.Text && u.Clave == txtclave.Text).FirstOrDefault();
 
-            if(ousuario != null)
+            if (ousuario != null)
             {
                 // Crea una nueva instancia del formulario "Inicio".
                 Inicio form = new Inicio();
@@ -44,7 +44,8 @@ namespace CapaPresentacion
 
                 // Asocia un manejador de eventos al evento de cierre del formulario "Inicio".
                 form.FormClosing += frm_closing;
-            } else
+            }
+            else
             {
                 MessageBox.Show("No se encontro el usuario", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }

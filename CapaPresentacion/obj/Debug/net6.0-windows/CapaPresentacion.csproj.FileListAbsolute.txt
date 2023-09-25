@@ -45,3 +45,10 @@ C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\net6.0-window
 C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
 C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
 C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jere\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
